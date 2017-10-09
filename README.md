@@ -1,4 +1,4 @@
-# EMG Movemnts
+# EMG Movements
 
 
 ### Prerequisites
